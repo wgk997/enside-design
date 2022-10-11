@@ -4643,7 +4643,7 @@ body #content h4.wpb_toggle.wpb_toggle_title_active:before {
     z-index: 5;
 }
 .mgt-promo-block .mgt-promo-block-content .mgt-promo-block-content-inside {
-    padding: 50px;
+    padding: 30px 0px;
 }
 .mgt-promo-block .mgt-promo-block-content .mgt-promo-block-content-inside.mgt-promo-block-content-inside-show-on-hover {
     transform: translate3d(0px, -40px, 0px);
@@ -6047,16 +6047,16 @@ body #content .wpb_text_column .mgt-button:last-child {
     color: #b8b8b8;
 }
 .mgt-client-reviews .mgt-client-review .mgt-client-review-image {
-    width: 75px;
-    height: 75px;
+    width: 200px;
+    height: 200px;
     overflow: hidden;
-    border-radius: 40px;
+    border-radius: 50%;
     display: inline-block;
     margin-bottom: 20px;
 }
 .mgt-client-reviews .mgt-client-review .mgt-client-review-image img {
-    width: 75px;
-    height: 75px;
+    width: 200px;
+    height: 200px;
 }
 .mgt-client-reviews .mgt-client-review .mgt-client-review-details {
     display: block;
