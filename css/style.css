@@ -7440,6 +7440,9 @@ body.transparent-header .portfolio-item-details.portfolio-layout-1.portfolio-tit
 .mgt-images-slider .mgt-images-slider-items {
     display: none;
 }
+.mgt-images-slider-item img{
+    height: 70px;
+}
 .mgt-images-slider .slick-prev {
     background: transparent url("../img/arrow-left-invert.png") no-repeat center center;
     opacity: 0.45;
@@ -8071,7 +8074,7 @@ body.enable-progressbar .header-progressbar-under-bar.bar {
 }
 /* Hover effects classes for manual use */
 .effect-hover-img-color img {
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
 }
 .effect-hover-img-color img:hover {
     filter: grayscale(0);
@@ -8083,7 +8086,7 @@ body.enable-progressbar .header-progressbar-under-bar.bar {
     filter: grayscale(100%);
 }
 .effect-hover-img-opacity img {
-    opacity: 0.5;
+    /* opacity: 0.5; */
 }
 .effect-hover-img-opacity img:hover {
     opacity: 1;
@@ -8748,4 +8751,13 @@ footer.footer-style-light {
 
 .input1 {
     width: 100%;
+}
+
+.dropdown-menu li a{
+    font-size: 17px !important;
+}
+
+video{
+    width: 100%;
+    height: auto;
 }
