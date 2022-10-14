@@ -92,6 +92,11 @@ h6 {
 cite {
     font-style: italic;
 }
+.services-micro-needling-arrow{
+    margin-right: 10px;
+    color:#ead8a1;
+   
+}
 input:focus,
 select:focus,
 textarea:focus,
