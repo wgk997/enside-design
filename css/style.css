@@ -8570,13 +8570,13 @@ footer.footer-style-light {
     background-color: rgba(20, 20, 20, 0.53) !important;
 }
 .mgt-promo-block-83546254.mgt-promo-block.darken .mgt-promo-block-content {
-    background: -moz-linear-gradient(left, rgba(20, 20, 20, 0.53) 0%, #034b9e 100%) !important;
-    background: -webkit-linear-gradient(left, rgba(20, 20, 20, 0.53) 0%, #034b9e 100%) !important;
-    background: linear-gradient(to right, rgba(20, 20, 20, 0.53) 0%, #034b9e 100%) !important;
-    background-color: rgba(20, 20, 20, 0.53) !important;
+       background: -moz-linear-gradient(left, rgba(20, 20, 20, 0.53) 0%, #034b9e 100%) !important;
+       background: -webkit-linear-gradient(left, rgb(20 20 20 / 0%) 0%, #ffffff 100%) !important;
+       background: linear-gradient(to right, #837e7659 0%, #ead8a1 100%) !important;
+       background-color: #f7be68 !important;
 }
 .mgt-promo-block-83546254.mgt-promo-block.animated:hover .mgt-promo-block-content {
-    background-color: rgba(20, 20, 20, 0.59) !important;
+
 }
 .mgt-promo-block-83546254.mgt-promo-block .mgt-promo-block-content h2 {
     font-size: 38px;
